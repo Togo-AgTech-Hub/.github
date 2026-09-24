@@ -1,0 +1,2 @@
+# .github
+Nous sommes une association data-driven agriculture qui accompagne la transformation numérique du secteur agricole au Togo.  Nous developpons  une plateforme numérique qui valorise et connecte les initiatives AgriTech au Togo.
