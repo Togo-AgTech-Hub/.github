@@ -81,8 +81,8 @@ Construisons ensemble l'agriculture de demain.
 Liens :
 
 Site web : https://www.togoagtechhub.org/
+Nous soutenir: https://github.com/sponsors/vianneyyovo
 
-Togo — Afrique de l'Ouest
 
-Togo AgTech Hub
+Togo AgTech Hub,
 Cultivons la terre autrement.
