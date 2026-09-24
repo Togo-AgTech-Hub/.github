@@ -3,6 +3,9 @@
 
 
 
+
+
+
 Data - Agriculture - Technology - Innovation
 
 Nous sommes une association data-driven agriculture qui accompagne la transformation numérique du secteur agricole au Togo. Nous developpons une plateforme numérique qui valorise et connecte les initiatives AgriTech au Togo. Découvrez les startups et projets innovants, explorez leur implantation sur une carte interactive, accédez aux opportunités et ressources, et bénéficiez d’un accompagnement intelligent grâce à l’IA.
